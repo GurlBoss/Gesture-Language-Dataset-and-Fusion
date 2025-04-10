@@ -1,0 +1,21 @@
+{
+  "object_properties":
+          [
+            "red",
+            "green",
+            "blue",
+            "yellow",
+            "small",
+            "big",
+            "cube",
+            "sphere",
+            "cylinder",
+            "solid"
+          ],
+  "actions":
+          [
+            "pick up"
+          ],
+  "words_limit": 5,
+  "objects_limit": 16
+}
