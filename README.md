@@ -7,4 +7,4 @@ The file `objects.json` describes all available objects.
 
 The data includes individual `.csv` files categorized by size and modality.
 
-A more detailed description is planned to be added by April 20, 2025.
+A more detailed description is planned to be added.
